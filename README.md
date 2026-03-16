@@ -6,7 +6,7 @@ These projects were developed as part of backend development learning using **Ja
 
 ---
 
-## 🛠 Technologies Used
+## 🛠 Technologies Used 
 
 - Java 21 (LTS)
 - Spring Boot
