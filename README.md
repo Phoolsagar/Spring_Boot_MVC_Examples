@@ -25,7 +25,7 @@ These projects were developed as part of backend development learning using **Ja
 - Work with `@Controller` and `@RestController`
 - Understand `@RequestMapping`, `@GetMapping`, `@PostMapping`
 - Learn Model, View, and Controller interaction
-- Handle form data submission
+- Handle form data submission 
 - Work with Path Variables and Request Parameters
 - Understand View Resolvers
 - Build dynamic web applications
